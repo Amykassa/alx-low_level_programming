@@ -1,2 +1,1 @@
-#!/bin/bash
-hii
+shell permission
