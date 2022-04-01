@@ -1,1 +1,2 @@
-!#my first read me and this is emebet kassa from alx and here i am learning about to  
+shell basics readme
+this is readme file for shell basics
